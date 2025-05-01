@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://royal-swabhav.github.io/TripleTCab/sitemap.xml
